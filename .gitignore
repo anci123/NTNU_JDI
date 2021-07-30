@@ -1,2 +1,6 @@
 
 .vscode/settings.json
+*.o
+*.out
+exercise_2/out
+.DS_Store
